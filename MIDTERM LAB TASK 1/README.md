@@ -20,4 +20,4 @@
 ![image alt](https://github.com/Aljohn0809/EDM-PORTFOLIO/blob/54398eee7894a458d3b2445e5791439585d42e4b/MIDTERM%20LAB%20TASK%201/Images/Clean%20Data.png)
 
 # Step 5 ERD
-![image alt](
+![image alt](https://github.com/Aljohn0809/EDM-PORTFOLIO/blob/52c5852952e9a662f3e0d44530c3e0ad055bec7e/MIDTERM%20LAB%20TASK%201/Images/ERD.png)

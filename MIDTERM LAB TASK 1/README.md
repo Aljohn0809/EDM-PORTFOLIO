@@ -17,4 +17,7 @@
 ![image alt](https://github.com/Aljohn0809/EDM-PORTFOLIO/blob/7c25219d0a969ea29dd0cdda2abc6a0e74666ad5/MIDTERM%20LAB%20TASK%201/Images/Raw%20Data.png)
 
 # Step 4 Screenshot after data cleaning
+![image alt](https://github.com/Aljohn0809/EDM-PORTFOLIO/blob/54398eee7894a458d3b2445e5791439585d42e4b/MIDTERM%20LAB%20TASK%201/Images/Clean%20Data.png)
+
+# Step 5 ERD
 ![image alt](

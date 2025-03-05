@@ -14,4 +14,4 @@
 - After that make ERD
 
 # Step 3 Screenshot before data cleaning 
-![image alt]
+! [image alt] (https://github.com/Aljohn0809/EDM-PORTFOLIO/blob/32879ceec9c687eef46ddd8ccd5794cfd41d6ccc/MIDTERM%20LAB%20TASK%201/Images/Raw%20Data.png)

@@ -21,10 +21,16 @@
 
 
   ### After Cleaning
+![Screenshot 2025-03-13 233424](https://github.com/user-attachments/assets/a85fcc28-1d19-49b1-aa04-6e0b50cd77f9)
+![Screenshot 2025-03-13 233457](https://github.com/user-attachments/assets/3d5a47d2-2360-4610-a734-7afa51301d53)
+![Screenshot 2025-03-13 233518](https://github.com/user-attachments/assets/d77781c9-e0db-4f3e-9947-308ebffbf6dc)
+![Screenshot 2025-03-13 233750](https://github.com/user-attachments/assets/cd32c137-1b18-4941-bacd-176434c85c98)
+![image](https://github.com/user-attachments/assets/d0b1b203-5b49-4257-912a-b7b8ba89d750)
+
+
+
 
   
-
-    
 
     
 ## Step 2 - Reshaping and Grouping the Tables
@@ -40,28 +46,24 @@
   ### Grouped Tables
 
     **Salary by Role Type Table**
+![Screenshot 2025-03-13 073944](https://github.com/user-attachments/assets/b9c1ed83-c322-4061-be8c-e23e89c1257b)
 
-    <img src="images/sal_by_role_type_dup.png" alt="Alt Text" Width="600" height="200">
 
 
     **Salary by Size Table**
+    ![Screenshot 2025-03-13 081038](https://github.com/user-attachments/assets/57675556-dfd8-4b23-8063-deb1d4ce5c05)
 
-    <img src="images/sal_by_size_ref.png" alt="Alt Text" Width="600" height="200">
-
-
-    **Salary by Size Role Type Table**
-
-    <img src="images/sal_by_role_type_dup.png" alt="Alt Text" Width="600" height="200">
 
 
     **Salary by State Table**
-  
-    <img src="images/state.png" alt="Alt Text" Width="600" height="200">
+ ![Screenshot 2025-03-13 220623](https://github.com/user-attachments/assets/14671650-4eb4-439c-95a7-ad09edd8fb5d)
 
-    
+
+
     **States (Mapping) Table**
 
-    <img src="images/state.png" alt="Alt Text" Width="600" height="200">
+    ![Screenshot 2025-03-13 234359](https://github.com/user-attachments/assets/4dc70673-c72f-4529-ba46-d018a1e5f984)
+
 
   ## Step 3 - Query Dependencies
 
@@ -69,5 +71,5 @@
   - Double check whether they are properly linked appropriately.
 
   ### Image of Query Dependencies 
-    <img src="images/QueryDependencies.png" alt="Alt Text" Width="600" height="200">
+    ![Screenshot 2025-03-13 220858](https://github.com/user-attachments/assets/1808febc-99d4-4f1d-9ba4-d3b220d64e97)
 

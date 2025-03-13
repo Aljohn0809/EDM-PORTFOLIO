@@ -13,15 +13,13 @@
   
   ### Before Cleaning  
 
-    
 
 
   ### After Cleaning
 
   
 
-    **M Language**
-    <img src="images/M_Language.png" alt="Alt Text" Width="900" height="600">
+    
 
     
 ## Step 2 - Reshaping and Grouping the Tables

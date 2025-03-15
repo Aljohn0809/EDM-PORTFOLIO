@@ -1,1 +1,2 @@
-
+Using the Worksheet on Uncleaned DS Jobs and the transform tables
+Sal By Role, Sal By State, Sal by Size

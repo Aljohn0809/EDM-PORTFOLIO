@@ -8,13 +8,17 @@
 - Sal by Size
   
   ###
- -Uncleaned_DS_Job
+  
+ - Uncleaned_DS_Job
  ![Screenshot 2025-03-16 221320](https://github.com/user-attachments/assets/36596330-f52d-4732-8994-96884f62f386)
- -Sal By Role
+ 
+ - Sal By Role
  ![Screenshot 2025-03-16 221333](https://github.com/user-attachments/assets/1f5851de-0cfc-44a6-b2da-fbca7874a4ee)
- -Sal By State
+ 
+ - Sal By State
  ![Screenshot 2025-03-16 221346](https://github.com/user-attachments/assets/979df8c2-702e-40e6-aa00-d11cd17e5d59)
- -Sal By Size
+ 
+ - Sal By Size
  ![Screenshot 2025-03-16 221357](https://github.com/user-attachments/assets/62bea47c-6ce6-45fd-b62f-b865915897da)
 
  

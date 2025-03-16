@@ -42,23 +42,25 @@
 
   ###
   Analyzing Salary Data
-  -Sal By Role
+  
+  - Sal By Role
   ![Screenshot 2025-03-16 222352](https://github.com/user-attachments/assets/157d803d-08bd-4b59-92f6-d029acc769c7)
   
-  -Sal By State
+  - Sal By State
   ![Screenshot 2025-03-16 222926](https://github.com/user-attachments/assets/8d161dcb-0509-4131-a6bd-bdadb613d5ff)
   
-  -Sal By Size
+  - Sal By Size
   ![Screenshot 2025-03-16 222500](https://github.com/user-attachments/assets/7aeb3086-eb6e-4e52-83d6-e2335f9e2ce3)
 
-  -Sector By State
+  - Sector By State
   ![Screenshot 2025-03-16 223143](https://github.com/user-attachments/assets/00a51698-fcd0-4ba9-a941-da9e40e296d6)
 
-  -Sector By Salary
+  - Sector By Salary
   ![Screenshot 2025-03-16 223205](https://github.com/user-attachments/assets/d495a120-4f30-4ed9-8ba9-52ad676a3f3f)
 
   ###
   Dashboard
+  
   ![image](https://github.com/user-attachments/assets/ba49d870-a790-452c-83aa-673b5ca9ad0d)
 
 

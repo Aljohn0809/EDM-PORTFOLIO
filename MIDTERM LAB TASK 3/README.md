@@ -1,7 +1,9 @@
 
 # Creating PIVOT TABLE and DASHBOARD
 
-## Step 1 -Using the Worksheet on Uncleaned DS Jobs and the transform tables
+## Step 1 
+-Using the Worksheet on Uncleaned DS Jobs and the transform tables
+- Analyze the Salary Data
 - Sal By Role
 - Sal By State
 - Sal by Size

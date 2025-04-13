@@ -43,6 +43,8 @@
 
     ![image](https://github.com/user-attachments/assets/32011f80-e711-4ae2-82d8-4e0b86cfdcda)
 
+### Copy of ER Diagram
+![image](https://github.com/user-attachments/assets/fd7a36ba-0bbc-4227-9b95-9a770e2482c5)
 
 
 

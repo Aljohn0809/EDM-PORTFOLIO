@@ -5,7 +5,7 @@
 ![Screenshot 2025-04-22 231501](https://github.com/user-attachments/assets/451f3251-12ab-4f19-a5dd-b8d21f98f999)
 
 ### Step 2: Create the student table
-- username:String (VARCHAR), up to 50 characters.
+- username: String (VARCHAR), up to 50 characters.
   
 ![Screenshot 2025-04-22 233024](https://github.com/user-attachments/assets/beaed70c-fd47-4f28-a69d-5de83e531322)
 
@@ -27,6 +27,11 @@
 - Note: Create the appropriate table relationship and enforce necessary REFERENTIAL INTEGRITY CONSTRAINTS.
   
   ![Screenshot 2025-04-22 233713](https://github.com/user-attachments/assets/cdca8ba6-9b26-47c3-acca-0cd9f55a0e98)
+
+  ###### Copy of ER Diagram
+
+  ![Screenshot 2025-04-22 234140](https://github.com/user-attachments/assets/ea3dcb17-8b84-4c3b-872a-7ad56c900e2b)
+
   
 
 

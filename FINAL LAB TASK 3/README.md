@@ -34,4 +34,11 @@
      
 ### Table Stucture
 
+![image](https://github.com/user-attachments/assets/194ecf04-77c4-450f-8439-5c71fa8f7e46)
+
+
+#### Relationa Schema
+
+![image](https://github.com/user-attachments/assets/29545f5f-e551-4b2c-9aed-9bf6359d920d)
+
   

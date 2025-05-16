@@ -11,6 +11,6 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
   - Graduated @The Risen Lord Ecumenical School Inc.
 
 ## My Projects
-- Midterm Lab Task 1:https://github.com/Aljohn0809/MIDTERM-LAB-TASK-1/commit/a4387a3831c2b36c8597bf213297ab5fc9faa30c
+- Midterm Lab Task 1:https://github.com/Aljohn0809/MIDTERM-LAB-TASK-1
 - Midterm Lab Task 2:https://github.com/Aljohn0809/EDM-PORTFOLIO/tree/main/MIDTERM%20LAB%20TASK%202
 - Midterm Lab Task 3:https://github.com/Aljohn0809/EDM-PORTFOLIO/tree/main/MIDTERM%20LAB%20TASK%203

@@ -11,6 +11,6 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
   - Graduated @The Risen Lord Ecumenical School Inc.
 
 ## My Projects
-- Midterm Lab Task 1:(https://github.com/Aljohn0809/MIDTERM-LAB-TASK-1) 
-- Midterm Lab Task 2:(https://github.com/Aljohn0809/MIDTERM-LAB-TASK-2) 
+- Midterm Lab Task 1:[Create Databaseusing MYSQL Wokrbench](https://github.com/Aljohn0809/MIDTERM-LAB-TASK-1) 
+- Midterm Lab Task 2:[Transform ER Model to Relational Tables](https://github.com/Aljohn0809/MIDTERM-LAB-TASK-2) 
 - Midterm Lab Task 3:https://github.com/Aljohn0809/EDM-PORTFOLIO/tree/main/MIDTERM%20LAB%20TASK%203

@@ -20,6 +20,14 @@
 ![image](https://github.com/user-attachments/assets/2fcd0f0e-b417-4013-9ef8-96e481809f98)
 
 
+## 5.	CREATE A Function that will take 2 parameters(v_code and v_state) and display All the product description and price based on the parameters passed to the function
+
+![image](https://github.com/user-attachments/assets/455149b5-c67a-4a09-8c82-8b68ae096aec)
+
+![image](https://github.com/user-attachments/assets/b53591d2-2625-47f3-bf12-fed16372cf97)
+
+
+
 
 
 

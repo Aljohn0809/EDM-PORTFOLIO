@@ -19,7 +19,7 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 
 
 ## Final Project
-- Final Lab Task 1:[Creating Table using MYSQL BASIC](https://github.com/Aljohn0809/FINAL-LAB-TASK-1)
+- Final Lab Task 1:[Creating Table using MYSQL BASIC](https://github.com/Aljohn0809/MIDTERM-LAB-TASK-1)
 - Final Lab Task 2:[Transform ER Model to Relational Tables](https://github.com/Aljohn0809/FINAL-LAB-TASK-2)
 - Final Lab Task 3:[Table Manipulation](https://github.com/Aljohn0809/FINAL-LAB-TASK-3)
 - Final Lab Task 4:[USING MYSQL CLAUSE](https://github.com/Aljohn0809/FINAL-LAB-TASK-4)

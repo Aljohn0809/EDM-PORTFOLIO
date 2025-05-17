@@ -14,7 +14,7 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 
   ## Midterm Project
 - Midterm Lab Task 1:[Create Databaseusing MYSQL Wokrbench](https://aljohn0809.github.io/MIDTERM-LAB-TASK-1/) 
-- Midterm Lab Task 2:[Transform ER Model to Relational Tables](https://github.com/Aljohn0809/MIDTERM-LAB-TASK-2) 
+- Midterm Lab Task 2:[Transform ER Model to Relational Tables](https://aljohn0809.github.io/MIDTERM-LAB-TASK-2/) 
 - Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://github.com/Aljohn0809/MIDTERM-LAB-TASK-3)
 
 

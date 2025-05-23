@@ -1,18 +1,19 @@
 # EDM-PORTFOLIO
 ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 
-## About ME
+# About ME
   Hello I'm Aljohn Rupert Isaac, student of BSIS I 102 and stuyding at City College of Angeles
  
-  ## Education
-  - First Year College @City College of Angeles
-  - Graduated @Madapdap Resettlement Senior High School
-  - Graduated @Tinajero National High School - Main
-  - Graduated @The Risen Lord Ecumenical School Inc.
+## Education
+- First Year College @City College of Angeles
+- Graduated @Madapdap Resettlement Senior High School
+- Graduated @Tinajero National High School - Main
+- Graduated @The Risen Lord Ecumenical School Inc.
 
-## My Projects
 
-  ## Midterm Project
+# My Projects
+
+## Midterm Project
 - Midterm Lab Task 1:[Create Databaseusing MYSQL Wokrbench](https://aljohn0809.github.io/MIDTERM-LAB-TASK-1/) 
 - Midterm Lab Task 2:[Data Cleaning and Transformation Using Power Query Editor](hhttps://aljohn0809.github.io/MIDTERM-LAB-TASK-2/) 
 - Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://aljohn0809.github.io/MIDTERM-LAB-TASK-3/)

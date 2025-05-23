@@ -2,6 +2,9 @@
 ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 
 # About ME
+
+![image](https://github.com/user-attachments/assets/1dbcaef4-28a5-43c1-8817-16beada494b0)
+  
   Hello I'm Aljohn Rupert Isaac, student of BSIS I 102 and stuyding at City College of Angeles
 
  

@@ -14,8 +14,8 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 
   ## Midterm Project
 - Midterm Lab Task 1:[Create Databaseusing MYSQL Wokrbench](https://aljohn0809.github.io/MIDTERM-LAB-TASK-1/) 
-- Midterm Lab Task 2:[Data Cleaning and Transformation Using Power Query Editor](https://aljohn0809.github.io/MIDTERM-LAB-TASK-2/) 
-- Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://github.com/Aljohn0809/MIDTERM-LAB-TASK-3)
+- Midterm Lab Task 2:[Data Cleaning and Transformation Using Power Query Editor](hhttps://aljohn0809.github.io/MIDTERM-LAB-TASK-2/) 
+- Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://aljohn0809.github.io/MIDTERM-LAB-TASK-3/)
 
 
 ## Final Project
@@ -24,4 +24,4 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 - Final Lab Task 3:[Table Manipulation](https://aljohn0809.github.io/FINAL-LAB-TASK-3/)
 - Final Lab Task 4:[USING MYSQL CLAUSE](https://aljohn0809.github.io/FINAL-LAB-TASK-4/)
 - Final Lab Task 5:[Using SQL views and Stored Procedures Stored Functions](https://aljohn0809.github.io/FINAL-LAB-TASK-5/)
-- Final Lab Task 6:[MongoDB Practice](
+- Final Lab Task 6:[MongoDB Practice](https://aljohn0809.github.io/Final-Lab-Task-6/)

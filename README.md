@@ -3,6 +3,7 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 
 # About ME
   Hello I'm Aljohn Rupert Isaac, student of BSIS I 102 and stuyding at City College of Angeles
+
  
 ## Education
 - First Year College @City College of Angeles
@@ -12,6 +13,7 @@ ENTERPRISE DATA MANAGEMENT PORTFOLIO IN EDM
 
 
 # My Projects
+
 
 ## Midterm Project
 - Midterm Lab Task 1:[Create Databaseusing MYSQL Wokrbench](https://aljohn0809.github.io/MIDTERM-LAB-TASK-1/) 
